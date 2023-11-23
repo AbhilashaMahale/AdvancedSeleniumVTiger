@@ -111,6 +111,8 @@ public class CreateContact {
 			
 			//Step 9: close the browser
 			driver.quit();
+			
+			System.out.println("Hey done");
 		
 	}
 	
